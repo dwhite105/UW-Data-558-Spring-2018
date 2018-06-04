@@ -9,7 +9,8 @@ The repository is organized as follows:
  * Demo 3 - Comparision of my Logistic Regression model with Sklearn functions
  * src/LogisticRegression.py - Module used in demo notebooks with annotated code
 
-The demo notebook and accompanying py module were devleoped in Python 3.6. Depending on prior installations, it contains dependencies on:
+
+The demo notebooks can be operated by clone the repository onto your local machine. The notebooks will automatically import the functions specified in the LogisticRegression.py file for my own implemetation of the Logistic Regression model. The demo notebook and accompanying py module were devleoped in Python 3.6. Depending on prior installations, it contains dependencies on:
 
 * pandas
 * numpy
